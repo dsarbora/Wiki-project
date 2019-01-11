@@ -1,0 +1,25 @@
+#logo {
+  width: 130px;
+  margin-bottom: 30px;
+}
+#left-row {
+  padding-left: 50px;
+  font-size: 12px;
+  line-height: 10px;
+  white-space:nowrap;
+}
+#left-column{
+  float: left;
+}
+.norm-text {
+  margin-top: 22px;
+}
+a{
+  color: #0645ad;
+}
+a:hover{
+  color: #0645ad;
+}
+a:visited{
+  color: #0b0080;
+}
